@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GooglePhotosDemo</string>
+    <string name="server_client_id">520003967142-8t8e73gh1g7l0bakgomvscu7spbvvcp4.apps.googleusercontent.com</string>
+    <string name="default_web_client_id">520003967142-6kbrs0vdfp806r01van7pdu8gb87f7hg.apps.googleusercontent.com</string>
+    <string name="msg_contacts_failed">Get contacts failed.</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="create_album">Create Album</string>
+    <string name="list_album">List Album</string>
+    <string name="get_album">Get Album</string>
+    <string name="refresh_token">Refresh Token</string>
+</resources>
